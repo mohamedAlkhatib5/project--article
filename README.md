@@ -35,7 +35,14 @@ A React-based web application for browsing and publishing articles. Only logged-
 
 ---
 
+This is a demo project. You can use the following credentials to log in and browse the articles:
 
+Username: mohamed-alkhatib  
+Password: 123456
 
 # Run the app locally
+
+
+
+
 npm run dev
